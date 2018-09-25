@@ -1,0 +1,5 @@
+Manifest-Version: 1.5
+Main:WindowSupport.java
+Time:1807061623
+Author:Gladiateur
+Build-Jdk:1.8.0_73
